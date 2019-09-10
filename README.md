@@ -1,0 +1,2 @@
+# shogi
+develop shogi
